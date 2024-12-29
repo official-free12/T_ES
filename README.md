@@ -1,0 +1,6 @@
+# Thinkphp手工代收代付系统第三方资金收付系统充值系统商户系统卡商系统含手机版
+
+源码描述：<br>这是一款纯手工的代收代付系统，没有对接第三方的API接口，除了商业化的正式运营以外，也是有很多其它应用场景的，大家可以充分发挥自己的想象力，比如很多个人对外支付款项，但是不愿透露个人支付信息的，等等。<br>对于代收代付业务，比较正式的定义是，企业或组织利用自身的结算便利，接受客户的委托，代为办理指定款项的收付事宜的业务，是由中介公司或第三方代为收取和支付费用的。在现代的经济社会里，代收代付是有广泛需求的，已经成为一项业务或生意，各个行业的各个企业，只要拥有了较好的社会声誉，建立了用户的信任关系，都是可以开展这项业务的，比如银行的代收代付业务。<br>特别说明：本套源码比较特殊，可以搭建资金收付平台，请勿用于任何非法用途，购买以后由于使用不当，产生的一切法律纠纷，均与本店无关，购买即代表认同本说明。<br>安装环境：example.com+MYSQL+伪静态<br>演示地址：<br>演示站点地址http://example.com/（手机自适应）<br>演示后台登录地址http://example.com/index/login/example.com;管理员账号admin，密码admin；备用账号admin1，admin1<br>前台商户登录地址http://example.com/index/login/example.com;账号HY000003，密码123456<br>前台卡商登录地址http://example.com/user/login/example.com;账号HY000006，密码123456<br>截图演示：<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Duohg" style="color: red;">https://mega-file.org/Duohg</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
